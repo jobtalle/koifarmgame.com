@@ -1,0 +1,9 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow: *.pdf
+Disallow: /koifarm.pdf
+Disallow: /docs
+Disallow: /README.md
+Disallow: /LICENSE.txt
